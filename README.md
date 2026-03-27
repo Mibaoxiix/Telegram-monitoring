@@ -1,4 +1,4 @@
-# 📡 Telegram 消息监听器（增强版）
+# 📡 Telegram 消息监听器
 
 一个基于 Python  的 Telegram 客户端工具，支持消息监听、规则过滤、自适应界面
 
